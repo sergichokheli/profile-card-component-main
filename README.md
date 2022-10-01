@@ -18,7 +18,7 @@
 ### Links
 
 - Solution URL: [Github repo](https://github.com/sergichokheli/profile-card-component-main)
-- Live Site URL: [Live Link](https://your-live-site-url.com)
+- Live Site URL: [Live Link](https://sergichokheli.github.io/profile-card-component-main/)
 
 ### Built with
 
