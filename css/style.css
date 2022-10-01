@@ -34,7 +34,7 @@ body {
   background-image: url(../images/bg-pattern-top.svg),
     url(../images/bg-pattern-bottom.svg);
   background-repeat: no-repeat;
-  background-position: top -30vw left -350px, right -70% bottom -100vh;
+  background-position: top -20vw left -6%, right -1% bottom -27vw;
 }
 .main-card {
   margin: 0 auto;
